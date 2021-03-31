@@ -1,5 +1,4 @@
 sdgaskgskgjbgjfgafbfsghbgkfhkdg
 <?php
-echo 'Hallo';
-echo 'Wouter';
-
+$a = 'hallo';
+echo $a;
